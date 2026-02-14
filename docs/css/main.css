@@ -13,7 +13,7 @@ body {
 #container, #container2,#container3{
   
     width: 100vw;
-    height: 110vh;
+    height: 100vh;
 
     
 }
@@ -26,8 +26,8 @@ body {
 }
 
 .saludo{
-    height: 80%;
-    width: 70%;
+    height: 90%;
+    width: 90%;   /* ancho del titulo primero */
 
     position:absolute;
     right: 0;
@@ -37,7 +37,7 @@ body {
     margin:auto;
 }
 .entrada{
-    margin-bottom: 15%;
+    margin-bottom: 5%;
 }
 .img{
     height: 150px; 
